@@ -11,8 +11,15 @@ package com.mycompany.repaso;
 public class Repaso {
 
     public static void main(String[] args) {
-        // VARIABLES
+        //VARIABLES
+        /*
+        - Representa un espacio en memoria
+        - Se guradan distintos tipos de datos
+        - Se le asignan nombres 
+        - Asignar tipo de datos
+        */
         
+ 
         int edadY = 24;
         String nombreY = "Yair";
         
