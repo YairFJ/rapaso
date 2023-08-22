@@ -11,6 +11,11 @@ package com.mycompany.repaso;
 public class Repaso {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        // VARIABLES
+        
+        int edadY = 24;
+        String nombreY = "Yair";
+        
+        System.out.println("Me llamo " + nombreY + " y tengo " + edadY + "años." );
     }
 }
